@@ -1,24 +1,19 @@
 # README
+#Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created a Pinterest Clone using Ruby on Rails 5.15
 
-Things you may want to cover:
+Prerequisites:
+Devise gem to create Users.
+Paperclip gem to add images.
+Bootstrap-sass gem for styling.
+Acts-As-Votable gem to vote on a pin.
+Masonry-Rails gem for transitions.
+HTML was written in HAML
 
-* Ruby version
+Authors Karen Mitchell - Initial work
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Acknowledgments
+guides.rubyonrails.org
+Ruby on Rails For Dummies by Barry A. Burd
+justinweiss.com
